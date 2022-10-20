@@ -1,3 +1,1 @@
-  ||    ^4+GENDER CHECK
-  ||    ^3+OWNER CHECK
-  ||    ^2+CLOTHES NUMBER
+TEST
